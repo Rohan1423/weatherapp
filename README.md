@@ -2,7 +2,7 @@
 
 This an application built using React.js used to search weather by cities and also show the upcoming forecast. The data is fetched from an API and then mapped to the application.
 
-Link for the webpage: https://rohan1423.github.io/weather
+Link for the webpage: https://rohan1423.github.io/weather/
 
 ## Features
 
